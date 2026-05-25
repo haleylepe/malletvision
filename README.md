@@ -1,1 +1,2 @@
-# malletvision
+# CS 131 Final Project
+Currently, in the world of Indoor percussion and Drum Corps International, front ensemble members, particularly mallet percussionists, have many of their performances online but do not have their sheet music available to viewers, leaving them to manually transcribe to play their favorite shows. Transcribing by viewing is tedious, and a product that can recognize the notes being played would save time for practicing musicians interested in playing their favorite shows. My project, Marimbavision, is a computer vision pipeline that watches an overhead view of a marimba, recognizes notes being played, and outputs the sequence to the user, without the need for more manual transcription. 
