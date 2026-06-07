@@ -1,0 +1,50 @@
+{
+  "video": "b_flat_top.mov",
+  "fps": 58.370796619313076,
+  "strikes": [
+    {
+      "frame": 174,
+      "timestamp": 2.995,
+      "note": "G3",
+      "key_index": 10,
+      "mallet_pos": [
+        383,
+        342
+      ],
+      "identified_by": "color"
+    },
+    {
+      "frame": 232,
+      "timestamp": 3.982,
+      "note": "C4",
+      "key_index": 13,
+      "mallet_pos": [
+        635,
+        711
+      ],
+      "identified_by": "color"
+    },
+    {
+      "frame": 277,
+      "timestamp": 4.748,
+      "note": "F4",
+      "key_index": 16,
+      "mallet_pos": [
+        842,
+        692
+      ],
+      "identified_by": "color"
+    },
+    {
+      "frame": 317,
+      "timestamp": 5.433,
+      "note": "G4",
+      "key_index": 17,
+      "mallet_pos": [
+        1067,
+        341
+      ],
+      "identified_by": "color"
+    }
+  ]
+}

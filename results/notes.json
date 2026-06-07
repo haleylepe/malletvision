@@ -1,0 +1,50 @@
+{
+  "video": "c_top_clap.MOV",
+  "fps": 58.51087195255875,
+  "strikes": [
+    {
+      "frame": 215,
+      "timestamp": 3.68,
+      "note": "C4",
+      "key_index": 13,
+      "mallet_pos": [
+        533,
+        724
+      ],
+      "identified_by": "color"
+    },
+    {
+      "frame": 261,
+      "timestamp": 4.47,
+      "note": "E4",
+      "key_index": 15,
+      "mallet_pos": [
+        734,
+        707
+      ],
+      "identified_by": "color"
+    },
+    {
+      "frame": 305,
+      "timestamp": 5.213,
+      "note": "G4",
+      "key_index": 17,
+      "mallet_pos": [
+        924,
+        674
+      ],
+      "identified_by": "color"
+    },
+    {
+      "frame": 345,
+      "timestamp": 5.898,
+      "note": "C5",
+      "key_index": 20,
+      "mallet_pos": [
+        1236,
+        655
+      ],
+      "identified_by": "color"
+    }
+  ]
+}

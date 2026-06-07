@@ -1,0 +1,50 @@
+{
+  "video": "e.mov",
+  "fps": 59.980073065426765,
+  "strikes": [
+    {
+      "frame": 114,
+      "timestamp": 1.904,
+      "note": "D#4",
+      "key_index": 3,
+      "mallet_pos": [
+        707,
+        665
+      ],
+      "identified_by": "aruco_sharp"
+    },
+    {
+      "frame": 142,
+      "timestamp": 2.38,
+      "note": "G#4",
+      "key_index": 5,
+      "mallet_pos": [
+        912,
+        355
+      ],
+      "identified_by": "aruco_sharp"
+    },
+    {
+      "frame": 170,
+      "timestamp": 2.844,
+      "note": "A#4",
+      "key_index": 6,
+      "mallet_pos": [
+        1120,
+        659
+      ],
+      "identified_by": "aruco_sharp"
+    },
+    {
+      "frame": 197,
+      "timestamp": 3.286,
+      "note": "D#5",
+      "key_index": 8,
+      "mallet_pos": [
+        1389,
+        658
+      ],
+      "identified_by": "aruco_sharp"
+    }
+  ]
+}

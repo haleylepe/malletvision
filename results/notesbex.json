@@ -1,0 +1,50 @@
+{
+  "video": "b_chord_extra.mov",
+  "fps": 57.959524306279995,
+  "strikes": [
+    {
+      "frame": 136,
+      "timestamp": 2.357,
+      "note": "A#3",
+      "key_index": 1,
+      "mallet_pos": [
+        413,
+        344
+      ],
+      "identified_by": "aruco_sharp"
+    },
+    {
+      "frame": 186,
+      "timestamp": 3.216,
+      "note": "C4",
+      "key_index": 13,
+      "mallet_pos": [
+        643,
+        727
+      ],
+      "identified_by": "color"
+    },
+    {
+      "frame": 228,
+      "timestamp": 3.936,
+      "note": "F4",
+      "key_index": 16,
+      "mallet_pos": [
+        853,
+        736
+      ],
+      "identified_by": "color"
+    },
+    {
+      "frame": 265,
+      "timestamp": 4.586,
+      "note": "A#4",
+      "key_index": 6,
+      "mallet_pos": [
+        1106,
+        390
+      ],
+      "identified_by": "aruco_sharp"
+    }
+  ]
+}

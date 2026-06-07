@@ -1,0 +1,382 @@
+{
+  "overall": 46.15384615384615,
+  "per_video": {
+    "videos/c.mov": {
+      "expected": [
+        "C4",
+        "E4",
+        "G4",
+        "C5"
+      ],
+      "detected": [
+        "C4",
+        "E4",
+        "G#4",
+        "C5"
+      ],
+      "correct": 3,
+      "n_expected": 4,
+      "accuracy": 75.0,
+      "color_correct": 3,
+      "color_total": 3,
+      "aruco_correct": 0,
+      "aruco_total": 1,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "color",
+        "color",
+        "aruco_sharp",
+        "color"
+      ]
+    },
+    "videos/d.mov": {
+      "expected": [
+        "D4",
+        "F#4",
+        "A4",
+        "D5"
+      ],
+      "detected": [
+        "C4",
+        "F#4",
+        "A#4",
+        "C5"
+      ],
+      "correct": 1,
+      "n_expected": 4,
+      "accuracy": 25.0,
+      "color_correct": 0,
+      "color_total": 2,
+      "aruco_correct": 1,
+      "aruco_total": 2,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "color",
+        "aruco_sharp",
+        "aruco_sharp",
+        "color"
+      ]
+    },
+    "videos/dflat.mov": {
+      "expected": [
+        "C#4",
+        "F4",
+        "G#4",
+        "C#5"
+      ],
+      "detected": [
+        "C#4",
+        "F#4",
+        "G#4",
+        "C#5"
+      ],
+      "correct": 3,
+      "n_expected": 4,
+      "accuracy": 75.0,
+      "color_correct": 0,
+      "color_total": 0,
+      "aruco_correct": 3,
+      "aruco_total": 4,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "aruco_sharp",
+        "aruco_sharp",
+        "aruco_sharp"
+      ]
+    },
+    "videos/e.mov": {
+      "expected": [
+        "E4",
+        "G#4",
+        "B4",
+        "E5"
+      ],
+      "detected": [
+        "D#4",
+        "G#4",
+        "A#4",
+        "D#5"
+      ],
+      "correct": 1,
+      "n_expected": 4,
+      "accuracy": 25.0,
+      "color_correct": 0,
+      "color_total": 0,
+      "aruco_correct": 1,
+      "aruco_total": 4,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "aruco_sharp",
+        "aruco_sharp",
+        "aruco_sharp"
+      ]
+    },
+    "videos/eflat.mov": {
+      "expected": [
+        "D#4",
+        "G4",
+        "A#4",
+        "D#5"
+      ],
+      "detected": [
+        "G4",
+        "G#4",
+        "A#4",
+        "D#5"
+      ],
+      "correct": 2,
+      "n_expected": 4,
+      "accuracy": 50.0,
+      "color_correct": 0,
+      "color_total": 1,
+      "aruco_correct": 2,
+      "aruco_total": 3,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "color",
+        "aruco_sharp",
+        "aruco_sharp",
+        "aruco_sharp"
+      ]
+    },
+    "videos/f.mov": {
+      "expected": [
+        "F4",
+        "A4",
+        "C5",
+        "F5"
+      ],
+      "detected": [
+        "F#4",
+        "A#4",
+        "C5",
+        "F5"
+      ],
+      "correct": 2,
+      "n_expected": 4,
+      "accuracy": 50.0,
+      "color_correct": 2,
+      "color_total": 2,
+      "aruco_correct": 0,
+      "aruco_total": 2,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "aruco_sharp",
+        "color",
+        "color"
+      ]
+    },
+    "videos/gflat.mov": {
+      "expected": [
+        "F#4",
+        "A#4",
+        "C#5",
+        "F#5"
+      ],
+      "detected": [
+        "F#4",
+        "G4",
+        "C#5",
+        "F#5"
+      ],
+      "correct": 3,
+      "n_expected": 4,
+      "accuracy": 75.0,
+      "color_correct": 0,
+      "color_total": 1,
+      "aruco_correct": 3,
+      "aruco_total": 3,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "color",
+        "aruco_sharp",
+        "aruco_sharp"
+      ]
+    },
+    "videos/g.mov": {
+      "expected": [
+        "G4",
+        "B4",
+        "D5",
+        "G5"
+      ],
+      "detected": [
+        "G#4",
+        "A#4",
+        "C5",
+        "F#5"
+      ],
+      "correct": 0,
+      "n_expected": 4,
+      "accuracy": 0.0,
+      "color_correct": 0,
+      "color_total": 1,
+      "aruco_correct": 0,
+      "aruco_total": 3,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "aruco_sharp",
+        "color",
+        "aruco_sharp"
+      ]
+    },
+    "videos/glower.mov": {
+      "expected": [
+        "G3",
+        "B3",
+        "D4",
+        "G4"
+      ],
+      "detected": [
+        "G#3",
+        "A#3",
+        "C4",
+        "G#4"
+      ],
+      "correct": 0,
+      "n_expected": 4,
+      "accuracy": 0.0,
+      "color_correct": 0,
+      "color_total": 1,
+      "aruco_correct": 0,
+      "aruco_total": 3,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "aruco_sharp",
+        "color",
+        "aruco_sharp"
+      ]
+    },
+    "videos/a.mov": {
+      "expected": [
+        "A3",
+        "C#4",
+        "E4",
+        "A4"
+      ],
+      "detected": [
+        "G#3",
+        "C#4",
+        "E4",
+        "A#4"
+      ],
+      "correct": 2,
+      "n_expected": 4,
+      "accuracy": 50.0,
+      "color_correct": 1,
+      "color_total": 1,
+      "aruco_correct": 1,
+      "aruco_total": 3,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "aruco_sharp",
+        "color",
+        "aruco_sharp"
+      ]
+    },
+    "videos/aflat.mov": {
+      "expected": [
+        "G#3",
+        "C4",
+        "D#4",
+        "G#4"
+      ],
+      "detected": [
+        "G#3",
+        "C4",
+        "D#4",
+        "G#4"
+      ],
+      "correct": 4,
+      "n_expected": 4,
+      "accuracy": 100.0,
+      "color_correct": 1,
+      "color_total": 1,
+      "aruco_correct": 3,
+      "aruco_total": 3,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "color",
+        "aruco_sharp",
+        "aruco_sharp"
+      ]
+    },
+    "videos/b.mov": {
+      "expected": [
+        "B3",
+        "D#4",
+        "F#4",
+        "B4"
+      ],
+      "detected": [
+        "A#3",
+        "D#4",
+        "F#4",
+        "D#5"
+      ],
+      "correct": 2,
+      "n_expected": 4,
+      "accuracy": 50.0,
+      "color_correct": 0,
+      "color_total": 0,
+      "aruco_correct": 2,
+      "aruco_total": 4,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "aruco_sharp",
+        "aruco_sharp",
+        "aruco_sharp"
+      ]
+    },
+    "videos/bflat.mov": {
+      "expected": [
+        "A#3",
+        "D4",
+        "F4",
+        "A#4"
+      ],
+      "detected": [
+        "A#3",
+        "C4",
+        "F#4",
+        "G4"
+      ],
+      "correct": 1,
+      "n_expected": 4,
+      "accuracy": 25.0,
+      "color_correct": 0,
+      "color_total": 2,
+      "aruco_correct": 1,
+      "aruco_total": 2,
+      "pos_correct": 0,
+      "pos_total": 0,
+      "methods": [
+        "aruco_sharp",
+        "color",
+        "aruco_sharp",
+        "color"
+      ]
+    }
+  }
+}
